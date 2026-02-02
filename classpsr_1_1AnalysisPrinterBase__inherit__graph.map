@@ -1,0 +1,13 @@
+<map id="psr::AnalysisPrinterBase&lt; AnalysisDomainTy &gt;" name="psr::AnalysisPrinterBase&lt; AnalysisDomainTy &gt;">
+<area shape="rect" id="Node000001" title="A generic class that serves as the basis for a custom analysis printer implementation." alt="" coords="5,133,185,173"/>
+<area shape="rect" id="Node000002" href="$classpsr_1_1DefaultAnalysisPrinter.html" title="A default implementation of the AnalysisPrinterBase. Aggregates all analysis results in a vector and ..." alt="" coords="243,5,439,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,122,177,88,232,55,261,43,263,48,235,60,180,92,133,127"/>
+<area shape="rect" id="Node000003" href="$classpsr_1_1DefaultLLVMAnalysisPrinter.html" title=" " alt="" coords="233,69,448,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,127,263,107,264,112,187,132"/>
+<area shape="rect" id="Node000004" href="$classpsr_1_1NullAnalysisPrinter.html" title=" " alt="" coords="253,133,428,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="199,151,253,151,253,156,199,156"/>
+<area shape="rect" id="Node000005" href="$classpsr_1_1OnTheFlyAnalysisPrinter.html" title=" " alt="" coords="235,197,446,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="187,174,264,195,263,200,185,179"/>
+<area shape="rect" id="Node000006" href="$classpsr_1_1SourceMgrPrinter.html" title=" " alt="" coords="255,261,427,301"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="133,180,180,215,235,247,263,259,261,264,232,252,177,219,129,184"/>
+</map>
