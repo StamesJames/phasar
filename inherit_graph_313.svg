@@ -11,10 +11,10 @@
 <!-- Node0 -->
 <g id="Node000000" class="node">
 <title>Node0</title>
-<g id="a_Node000000"><a xlink:href="structpsr_1_1NonTopBotValue_3_01LatticeDomain_3_01L_01_4_01_4.html" target="_top" xlink:title=" ">
+<g id="a_Node000000"><a xlink:href="classpsr_1_1SmallVectorWorkList.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="138,-30 0,-30 0,0 138,0 138,-30"/>
-<text text-anchor="start" x="8" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">psr::NonTopBotValue</text>
-<text text-anchor="middle" x="69" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">&lt; LatticeDomain&lt; L &gt; &gt;</text>
+<text text-anchor="start" x="8" y="-18" font-family="Helvetica,sans-Serif" font-size="10.00">psr::SmallVectorWorkList</text>
+<text text-anchor="middle" x="69" y="-7" font-family="Helvetica,sans-Serif" font-size="10.00">&lt; T, N &gt;</text>
 </a>
 </g>
 </g>
